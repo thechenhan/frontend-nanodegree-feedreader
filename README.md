@@ -1,3 +1,10 @@
+# What is this repo?
+This is the 6th project for Udacity FrontEnd Nanodegree. The detailed information can be found below.
+It trains the students to use Jasmine and understand how to test js file.
+
+# How to launch?
+click here: http://thechenhan.github.io/frontend-nanodegree-feedreader/. You may find there are 7 specs to test. And they all pass.
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
